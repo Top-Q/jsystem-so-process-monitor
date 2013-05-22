@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sut validators="">
+	<monitor>
+		<class>com.topq.monitor.PyProcessMonitor</class>
+		<pythonPath>c:/Python27/python.exe</pythonPath>
+		<pathToScripts>C:/Automation/work/ProcessMonitor/scripts/</pathToScripts>
+		<processName>eclipse.exe</processName>
+	</monitor>
+</sut>
